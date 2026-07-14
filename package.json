@@ -1,0 +1,15 @@
+{
+  "name": "ai-commit-gen",
+  "version": "1.0.0",
+  "description": "A CLI tool that uses Google Gemini AI to generate perfect git commit messages.",
+  "main": "index.js",
+  "bin": {
+    "ai-commit": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["git", "commit", "ai", "gemini", "cli"],
+  "author": "Zedan2552000",
+  "license": "MIT"
+}
